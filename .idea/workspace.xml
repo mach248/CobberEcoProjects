@@ -4,8 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52c38cd1-31a7-4412-9b62-5ddbda9cc49f" name="Changes" comment="python working - all set up">
+    <list default="true" id="52c38cd1-31a7-4412-9b62-5ddbda9cc49f" name="Changes" comment="trying to fix push issues">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_11_2026_4_11_PM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_11_2026_4_11_PM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/ClusteringKNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/cluster_comparison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/cluster_scatter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/elbow_plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/knn_decision_boundary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/plots.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/rodent_species_summary.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/species.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/summary_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClusteringKNN/surveys.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GradientDescent/gradient_descent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GradientDescent/gradient_descent_result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GradientDescent/mse_loss_surface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GradientDescent/phosphorus_chlorophyll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GradientDescent/species_area_data.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CobberEcoProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CobberEcoProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ErrorAnalysis/ErrorAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimilarityTool/SimilarityTool.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,36 +44,50 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mach248"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mach248&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mach248/CobberEcoProjects.git",
-    "accountId": "b080de89-e79b-4976-bbc7-7b51f3626903"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mach248/CobberEcoProjects.git&quot;,
+    &quot;accountId&quot;: &quot;b080de89-e79b-4976-bbc7-7b51f3626903&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="3EwsXKKzUKeOI8z5mSz9FC4D84y" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.EcoFetcher.executor": "Run",
-    "Python.HelloWorld.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ClusteringKNN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EcoFetcher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ErrorAnalysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add_temperature.executor&quot;: &quot;Run&quot;,
+    &quot;Python.analysis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.evaluate_metrics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gradient_descent.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linear_regression_lat_temp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot_predicted_vs_actual.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot_residuals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot_residuals_by_country.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scatter_lat_temp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.species_area.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,11 +111,47 @@
       <option name="project" value="LOCAL" />
       <updated>1781102179489</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done with EcoFetcher">
+      <option name="closed" value="true" />
+      <created>1781104002922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781104002922</updated>
+    </task>
+    <task id="LOCAL-00003" summary="done with EcoFetcher without saving tif files">
+      <option name="closed" value="true" />
+      <created>1781109519843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1781109519843</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1781213820235</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1781213820235</updated>
+    </task>
+    <task id="LOCAL-00005" summary="trying to fix push issues">
+      <option name="closed" value="true" />
+      <created>1781214139362</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1781214139362</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python working - all set up" />
-    <option name="LAST_COMMIT_MESSAGE" value="python working - all set up" />
+    <MESSAGE value="done with Error Analysis, connecting back to data fetched (csv file) from EcoFetcher" />
+    <MESSAGE value="done with EcoFetcher" />
+    <MESSAGE value="done with EcoFetcher without saving tif files" />
+    <MESSAGE value="trying to fix push issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to fix push issues" />
   </component>
 </project>

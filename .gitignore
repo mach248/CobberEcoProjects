@@ -1,0 +1,11 @@
+# Large WorldClim raster data — too big for GitHub, re-downloadable
+*.zip
+*.tif
+
+# Generated images and data outputs
+*.png
+
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.pyc
