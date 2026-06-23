@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52c38cd1-31a7-4412-9b62-5ddbda9cc49f" name="Changes" comment="trying to fix push issues">
-      <change afterPath="$PROJECT_DIR$/LSTM_Basic/lstm_rodents.py" afterDir="false" />
+    <list default="true" id="52c38cd1-31a7-4412-9b62-5ddbda9cc49f" name="Changes" comment="done with lstm vibe project">
+      <change afterPath="$PROJECT_DIR$/EcoNeuralNetwork/EcoNeuralNetwork.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,20 +48,30 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ClusteringKNN.executor": "Run",
     "Python.EcoFetcher.executor": "Run",
+    "Python.EcoNeuralNetwork.executor": "Run",
     "Python.ErrorAnalysis.executor": "Run",
     "Python.HelloWorld.executor": "Run",
     "Python.add_temperature.executor": "Run",
     "Python.analysis.executor": "Run",
     "Python.data_test.executor": "Run",
     "Python.evaluate_metrics.executor": "Run",
+    "Python.generalization_test_plot.executor": "Run",
     "Python.gradient_descent.executor": "Run",
+    "Python.holdout_test_species_area.executor": "Run",
+    "Python.linear_fit_species_area.executor": "Run",
+    "Python.linear_metrics_species_area.executor": "Run",
     "Python.linear_regression_lat_temp.executor": "Run",
+    "Python.linear_residuals_species_area.executor": "Run",
     "Python.lstm_rodents.executor": "Run",
+    "Python.model_comparison_species_area.executor": "Run",
+    "Python.neural_network_metrics_species_area.executor": "Run",
+    "Python.neural_network_species_area.executor": "Run",
     "Python.plot_predicted_vs_actual.executor": "Run",
     "Python.plot_residuals.executor": "Run",
     "Python.plot_residuals_by_country.executor": "Run",
     "Python.scatter_lat_temp.executor": "Run",
     "Python.species_area.executor": "Run",
+    "Python.width_exploration_species_area.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -124,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781214139362</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="done with lstm vibe project">
+      <option name="closed" value="true" />
+      <created>1781730377925</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1781730377925</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -133,6 +151,7 @@
     <MESSAGE value="done with EcoFetcher" />
     <MESSAGE value="done with EcoFetcher without saving tif files" />
     <MESSAGE value="trying to fix push issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to fix push issues" />
+    <MESSAGE value="done with lstm vibe project" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with lstm vibe project" />
   </component>
 </project>
