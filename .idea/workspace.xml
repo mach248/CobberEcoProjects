@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52c38cd1-31a7-4412-9b62-5ddbda9cc49f" name="Changes" comment="done with lstm vibe project">
-      <change afterPath="$PROJECT_DIR$/EcoNeuralNetwork/EcoNeuralNetwork.py" afterDir="false" />
+    <list default="true" id="52c38cd1-31a7-4412-9b62-5ddbda9cc49f" name="Changes" comment="done with ANN vibe project">
+      <change afterPath="$PROJECT_DIR$/LeafVeinCNN/LeafVeinCNN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +51,11 @@
     "Python.EcoNeuralNetwork.executor": "Run",
     "Python.ErrorAnalysis.executor": "Run",
     "Python.HelloWorld.executor": "Run",
+    "Python.LeafVeinCNN.executor": "Run",
     "Python.add_temperature.executor": "Run",
     "Python.analysis.executor": "Run",
+    "Python.build_cnn.executor": "Run",
+    "Python.classify_new_leaf.executor": "Run",
     "Python.data_test.executor": "Run",
     "Python.evaluate_metrics.executor": "Run",
     "Python.generalization_test_plot.executor": "Run",
@@ -69,8 +72,11 @@
     "Python.plot_predicted_vs_actual.executor": "Run",
     "Python.plot_residuals.executor": "Run",
     "Python.plot_residuals_by_country.executor": "Run",
+    "Python.prepare_cnn_data.executor": "Run",
     "Python.scatter_lat_temp.executor": "Run",
+    "Python.show_augmented_samples.executor": "Run",
     "Python.species_area.executor": "Run",
+    "Python.visualize_feature_maps.executor": "Run",
     "Python.width_exploration_species_area.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -142,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781730377925</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="done with ANN vibe project">
+      <option name="closed" value="true" />
+      <created>1782247775780</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782247775780</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +166,7 @@
     <MESSAGE value="done with EcoFetcher without saving tif files" />
     <MESSAGE value="trying to fix push issues" />
     <MESSAGE value="done with lstm vibe project" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with lstm vibe project" />
+    <MESSAGE value="done with ANN vibe project" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with ANN vibe project" />
   </component>
 </project>
