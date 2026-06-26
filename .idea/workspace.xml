@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52c38cd1-31a7-4412-9b62-5ddbda9cc49f" name="Changes" comment="done with ANN vibe project">
-      <change afterPath="$PROJECT_DIR$/LeafVeinCNN/LeafVeinCNN.py" afterDir="false" />
+    <list default="true" id="52c38cd1-31a7-4412-9b62-5ddbda9cc49f" name="Changes" comment="done with leaf vein CNN vibe project">
+      <change afterPath="$PROJECT_DIR$/FrozenLakeRL/FrozenLakeRL.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,10 +57,15 @@
     "Python.build_cnn.executor": "Run",
     "Python.classify_new_leaf.executor": "Run",
     "Python.data_test.executor": "Run",
+    "Python.diagnose_qlearning.executor": "Run",
     "Python.evaluate_metrics.executor": "Run",
+    "Python.frozenlake_setup.executor": "Run",
+    "Python.frozenlake_step.executor": "Run",
     "Python.generalization_test_plot.executor": "Run",
     "Python.gradient_descent.executor": "Run",
     "Python.holdout_test_species_area.executor": "Run",
+    "Python.learned_policy.executor": "Run",
+    "Python.learning_curve.executor": "Run",
     "Python.linear_fit_species_area.executor": "Run",
     "Python.linear_metrics_species_area.executor": "Run",
     "Python.linear_regression_lat_temp.executor": "Run",
@@ -73,9 +78,13 @@
     "Python.plot_residuals.executor": "Run",
     "Python.plot_residuals_by_country.executor": "Run",
     "Python.prepare_cnn_data.executor": "Run",
+    "Python.qlearning_slippery.executor": "Run",
+    "Python.qlearning_train.executor": "Run",
+    "Python.qtable_init.executor": "Run",
     "Python.scatter_lat_temp.executor": "Run",
     "Python.show_augmented_samples.executor": "Run",
     "Python.species_area.executor": "Run",
+    "Python.test_agent.executor": "Run",
     "Python.visualize_feature_maps.executor": "Run",
     "Python.width_exploration_species_area.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -156,7 +165,39 @@
       <option name="project" value="LOCAL" />
       <updated>1782247775780</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="done with leaf vein CNN vibe project">
+      <option name="closed" value="true" />
+      <created>1782331689174</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782331689174</updated>
+    </task>
+    <task id="LOCAL-00009" summary="done with leaf vein CNN vibe project">
+      <option name="closed" value="true" />
+      <created>1782331715085</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1782331715085</updated>
+    </task>
+    <task id="LOCAL-00010" summary="done with leaf vein CNN vibe project">
+      <option name="closed" value="true" />
+      <created>1782331737911</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782331737911</updated>
+    </task>
+    <task id="LOCAL-00011" summary="done with leaf vein CNN vibe project">
+      <option name="closed" value="true" />
+      <created>1782331749836</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782331749836</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +208,8 @@
     <MESSAGE value="trying to fix push issues" />
     <MESSAGE value="done with lstm vibe project" />
     <MESSAGE value="done with ANN vibe project" />
-    <option name="LAST_COMMIT_MESSAGE" value="done with ANN vibe project" />
+    <MESSAGE value="done with ANN and leaf vein CNN vibe project" />
+    <MESSAGE value="done with leaf vein CNN vibe project" />
+    <option name="LAST_COMMIT_MESSAGE" value="done with leaf vein CNN vibe project" />
   </component>
 </project>
